@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Role dos supervisores. Podem fazer qualquer operação de CRWD nas tabelas de pedidos.</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1258932_gest_o_0.supervisor</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>supervisor</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 16:44:14</sys_created_on>
+        <sys_id>ea921ed02f47f11098cc4ae72799b65b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1258932_gest_o_0.supervisor</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258932_gest_o_0">f88801c02f83b11098cc4ae72799b63e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">f88801c02f83b11098cc4ae72799b63e</sys_scope>
+        <sys_update_name>sys_user_role_ea921ed02f47f11098cc4ae72799b65b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 16:44:14</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">f88801c02f83b11098cc4ae72799b63e</application>
+        <file_path/>
+        <instance_id>43a2c462db5add9c387021c40596198e</instance_id>
+        <instance_name>dev139230</instance_name>
+        <name>sys_user_role_ea921ed02f47f11098cc4ae72799b65b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Role dos supervisores. Podem fazer qualquer operação de CRWD nas tabelas de pedidos.</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_1258932_gest_o_0.supervisor</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>supervisor</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-07 16:44:14</sys_created_on><sys_id>ea921ed02f47f11098cc4ae72799b65b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1258932_gest_o_0.supervisor</sys_name><sys_package display_value="Gestão de Inventário" source="x_1258932_gest_o_0">f88801c02f83b11098cc4ae72799b63e</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">f88801c02f83b11098cc4ae72799b63e</sys_scope><sys_update_name>sys_user_role_ea921ed02f47f11098cc4ae72799b65b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-07 16:44:14</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-688183017</payload_hash>
+        <record_name>x_1258932_gest_o_0.supervisor</record_name>
+        <reverted_from/>
+        <source>f08801c02f83b11098cc4ae72799b641</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 16:44:14</sys_created_on>
+        <sys_id>63a29ad02f47f11098cc4ae72799b662</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c452a61b30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 16:44:14</sys_updated_on>
+        <type>Role</type>
+        <update_guid>a7a29ad0e647f1106bbabe89820cc861</update_guid>
+        <update_guid_history>a7a29ad0e647f1106bbabe89820cc861:-688183017</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1258932_gest_o_0.supervisor">c4d212142f47f11098cc4ae72799b66c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 16:44:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>b1f86cff888245fc88988f87ef269810</sys_id>
+        <sys_metadata>ea921ed02f47f11098cc4ae72799b65b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1258932_gest_o_0.supervisor</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258932_gest_o_0">f88801c02f83b11098cc4ae72799b63e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">f88801c02f83b11098cc4ae72799b63e</sys_scope>
+        <sys_scope_delete display_value="">36c07be8c1e34ec0940ef19eb461b990</sys_scope_delete>
+        <sys_update_name>sys_user_role_ea921ed02f47f11098cc4ae72799b65b</sys_update_name>
+        <sys_update_version display_value="sys_user_role_ea921ed02f47f11098cc4ae72799b65b">63a29ad02f47f11098cc4ae72799b662</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 16:44:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
